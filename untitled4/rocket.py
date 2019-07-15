@@ -5,7 +5,7 @@ f=100 # L
 thrusters = 0
 
 input_thruster = input("thrusters(input 0to 20)")
-
+#hi
 if input_thruster > 20:
     print("Input 0 to 20")
     thrusters = 20
